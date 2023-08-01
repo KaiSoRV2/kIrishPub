@@ -1,6 +1,6 @@
 Config = {
 
-    Webhook = "https://discord.com/api/webhooks/1130890640738226248/vGuQ9N3DgvIOZ1OKAKgkK4wKXEv3ya9apbr35QouRQ-nUfbx7HkVjRpNhDTYq120HPEC",
+    Webhook = "",
     NameJob = 'irishpub', -- Nom du Job (majoritairement config à vérifier parfois)
     ActiveBlipsRaduis = true,
     PourcentageVente = 0.65, -- Pourcentage que l'entreprise touche sur la vente d'un véhicule par rapport au prix d'achat
